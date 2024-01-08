@@ -51,6 +51,27 @@ This repository contains a collection of deep learning models implemented from s
 
 16. **CNN using TensorFlow with Dropout**
     - Implementation of a CNN using TensorFlow with dropout for regularization.
+      
+17. **Text Classification using LSTM**
+    - Implementation of text classification using Long Short-Term Memory (LSTM).
+      
+18. **LSTM using Keras**
+    - Implementation of a basic LSTM using the Keras library.
+
+19. **Vanilla Autoencoder**
+    - Implementation of a vanilla autoencoder for unsupervised learning.
+
+20. **Denoising Autoencoder**
+    - Implementation of a denoising autoencoder for robust feature extraction.
+
+21. **Sparse Autoencoder**
+    - Implementation of a sparse autoencoder for sparse feature representation.
+
+22. **Variational Autoencoder**
+    - Implementation of a variational autoencoder for generative modeling.
+
+23. **DC-GAN (Generative Adversarial Network)**
+    - Implementation of a Deep Convolutional Generative Adversarial Network (DC-GAN) for image generation.
 
 ## Usage
 Each model is contained in a separate Jupyter Notebook (.ipynb) file. Simply open the respective notebook to explore the implementation and run the code.
